@@ -81,12 +81,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-## 📬 Contact & Support
-
-- **Official Website**: [https://your-website.com](https://your-website.com)
-- **GitHub Issues**: Use the *Issues* section to report bugs or request features.
-- **Email**: support@your-website.com
-
----
 
 © 2025 SafeCode Downloader – Made with ❤️ for the community.
+
